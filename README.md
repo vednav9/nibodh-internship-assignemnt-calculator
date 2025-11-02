@@ -27,4 +27,4 @@ This project demonstrates the use of JavaScript for handling user input and perf
 git clone https://github.com/vednav9/nibodh-internship-assignemnt-calculator.git
 ```
 
-2. Open ```index.html``` in your web browser.
+2. Open ```calculator.html``` in your web browser.
